@@ -1,0 +1,82 @@
+[
+  {
+    "question_id": "item-cart",
+    "status": "CORRECT"
+  },
+  {
+    "question_id": "spaghetti-recipe",
+    "status": "PARTIALLY_CORRECT"
+  },
+  {
+    "question_id": "blog-post",
+    "status": "CORRECT"
+  },
+  {
+    "question_id": "rainbow-circles",
+    "status": "INCORRECT"
+  },
+  {
+    "question_id": "navbar",
+    "status": "PARTIALLY_CORRECT"
+  },
+  {
+    "question_id": "pig-emoji",
+    "status": "CORRECT"
+  },
+  {
+    "question_id": "expert-products",
+    "status": "PARTIALLY_CORRECT"
+  },
+  {
+    "question_id": "testing-framework",
+    "status": "CORRECT"
+  },
+  {
+    "question_id": "array-methods",
+    "status": "INCORRECT"
+  },
+  {
+    "question_id": "event-target",
+    "status": "CORRECT"
+  },
+  {
+    "question_id": "debounce",
+    "status": "PARTIALLY_CORRECT"
+  },
+  {
+    "question_id": "promisify",
+    "status": "CORRECT"
+  },
+  {
+    "question_id": "throttle",
+    "status": "PARTIALLY_CORRECT"
+  },
+  {
+    "question_id": "infinity-scroll",
+    "status": "INCORRECT"
+  },
+  {
+    "question_id": "stopwatch",
+    "status": "CORRECT"
+  },
+  {
+    "question_id": "tic-tac-toe",
+    "status": "CORRECT"
+  },
+  {
+    "question_id": "todo-list",
+    "status": "PARTIALLY_CORRECT"
+  },
+  {
+    "question_id": "typehead",
+    "status": "PARTIALLY_CORRECT"
+  },
+  {
+    "question_id": "tier-list",
+    "status": "INCORRECT"
+  },
+  {
+    "question_id": "toasts",
+    "status": "PARTIALLY_CORRECT"
+  }
+]

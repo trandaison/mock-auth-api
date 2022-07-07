@@ -61,6 +61,16 @@ app.get('/api/me', (req, res) => {
   })
 })
 
+app.get('/api/questions', (req, res) => {
+  const questions = require('./data/questions.json');
+  res.send(questions);
+})
+
+app.get('/api/submissions', (req, res) => {
+  const submissions = require('./data/submissions.json');
+  res.send(submissions);
+})
+
 app.listen(port, () => {
   console.log(`Mock API app listening at http://localhost:${port}`)
 })
