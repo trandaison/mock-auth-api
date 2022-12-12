@@ -6,6 +6,10 @@ const port = process.env.PORT || 5000;
 
 app.use(cors())
 
+function randomInt(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
 app.get('/', (req, res) => {
   res.send('welcome!')
 })
@@ -69,6 +73,16 @@ app.get('/api/questions', (req, res) => {
 app.get('/api/submissions', (req, res) => {
   const submissions = require('./data/submissions.json');
   res.send(submissions);
+})
+
+app.get('/api/bills/:id', (req, res) => {
+  const foods = require('./data/foods.json');
+  const shuffled = foods.sort(() => 0.5 - Math.random());
+
+  let selected = shuffled
+    .slice(0, randomInt(4, 10))
+    .map((item) => ({ ...item, quantity: randomInt(1, 20) }));
+  res.send(selected);
 })
 
 app.listen(port, () => {

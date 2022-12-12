@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "name": "milk",
+    "price": 4.43
+  },
+  {
+    "id": 2,
+    "name": "butter",
+    "price": 6.87
+  },
+  {
+    "id": 3,
+    "name": "eggs",
+    "price": 1.64
+  },
+  {
+    "id": 4,
+    "name": "carrot",
+    "price": 1.04
+  },
+  {
+    "id": 5,
+    "name": "potatoes",
+    "price": 4.01
+  },
+  {
+    "id": 6,
+    "name": "onion",
+    "price": 3.71
+  },
+  {
+    "id": 7,
+    "name": "apples",
+    "price": 9.92
+  },
+  {
+    "id": 8,
+    "name": "cheese",
+    "price": 1.07
+  },
+  {
+    "id": 9,
+    "name": "cabbage",
+    "price": 4.05
+  },
+  {
+    "id": 10,
+    "name": "chicken",
+    "price": 5.81
+  },
+  {
+    "id": 11,
+    "name": "beef",
+    "price": 8.03
+  },
+  {
+    "id": 12,
+    "name": "hot dogs",
+    "price": 11.82
+  },
+  {
+    "id": 13,
+    "name": "bacon",
+    "price": 16.47
+  },
+  {
+    "id": 14,
+    "name": "bread",
+    "price": 2.54
+  },
+  {
+    "id": 15,
+    "name": "peas",
+    "price": 2.36
+  },
+  {
+    "id": 16,
+    "name": "rice",
+    "price": 7.77
+  },
+  {
+    "id": 17,
+    "name": "pasta",
+    "price": 8.52
+  },
+  {
+    "id": 18,
+    "name": "oatmeal",
+    "price": 19.31
+  },
+  {
+    "id": 19,
+    "name": "floor",
+    "price": 8.9
+  },
+  {
+    "id": 20,
+    "name": "sugar",
+    "price": 16.76
+  },
+  {
+    "id": 21,
+    "name": "salt",
+    "price": 0.72
+  },
+  {
+    "id": 22,
+    "name": "tomatoes",
+    "price": 21.28
+  },
+  {
+    "id": 23,
+    "name": "beans",
+    "price": 20.46
+  }
+]
